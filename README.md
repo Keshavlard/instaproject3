@@ -1,3 +1,3 @@
-# instaproject3
+# smallproject3
 
 password strength checker
